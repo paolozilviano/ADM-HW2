@@ -1,4 +1,4 @@
-For the command line question we provide the code of the task in a *windows batch file* as shell script file (.bat). 
+For the command line question we provide the code of the task in a *windows batch files* as shell script files (.bat). 
 
 After that we moved the two file along the *series.json* file in the desktop and then we run them to the command line as you can
 see in the screenshot file (*command_line_screenshot.png*). 
